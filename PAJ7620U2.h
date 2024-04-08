@@ -1,3 +1,12 @@
+/*
+	Project  : PAJ7620U2
+ 	file     : PAJ7620U2.h
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #ifndef __PAJ7620_H__
 #define __PAJ7620_H__
 
