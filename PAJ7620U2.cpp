@@ -1,3 +1,12 @@
+/*
+	Project  : PAJ7620U2
+ 	file     : PAJ7620U2.cpp
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #include "PAJ7620U2.h"
 
 byte PAJ7620::Init(void) {
